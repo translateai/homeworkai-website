@@ -79,12 +79,12 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#212121"
+topbar_color                              : "#6435FF"
 topbar_transparency                       : 0.8
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#202020"
+cover_overlay_color                       : "#3F3B4F"
 cover_overlay_transparency                : 0.7
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.

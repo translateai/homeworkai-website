@@ -1,5 +1,5 @@
 #page title
-page_title                                : Homework Pocket                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Homework.AI                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6462423041                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,19 +11,19 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/applogo.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Homework Pocket：Quiz Scanner             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Homework.AI            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Remove Handwriting From Paper & Manage your homework
+app_description                           : Smart AI, Learning Made Easy
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Lang AI,LLC                                
+your_name                                 : Translateai, LLC                                
 your_link                                 :                     
 your_city                                 : US                                
-email_address                             : support@langaiapp.com
+email_address                             : support@translateaillc.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
